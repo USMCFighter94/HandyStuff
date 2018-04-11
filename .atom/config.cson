@@ -1,0 +1,14 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    tabLength: 4
+  "exception-reporting":
+    userId: "555593d8-c11d-4c1c-8093-2b529d462f9f"
+  "linter-ui-default": {}
+  welcome:
+    showOnStartup: false
